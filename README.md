@@ -1,5 +1,6 @@
 # Cognifyz_level_3_Tasks
 Tasks provide deeper insights into customer feedback, restaurant popularity, and how pricing affects service offerings, helping refine strategic planning and market positioning.
+
 Task 1 Restaurant Reviews:
 
 Objective: Analyze customer feedback to uncover key insights.
